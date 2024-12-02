@@ -9,7 +9,7 @@ A simple QR code generator built using HTML, CSS, and JavaScript, utilizing the 
 Features
 
 - Generate QR codes for any text input
-- Customizable QR code size and color
+- Generate QR codes for url's
 - Utilizes the QR Code API for efficient QR code generation
 
 How to Use
